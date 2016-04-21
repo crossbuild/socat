@@ -4,6 +4,7 @@
 
 /* a function for lexical scanning of nested character patterns */
 
+#include <stddef.h>
 #include "config.h"
 #include "mytypes.h"
 
